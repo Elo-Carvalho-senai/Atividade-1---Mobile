@@ -32,7 +32,7 @@ const noticias = () =>{
           <Image
             source={require("../assets/images/noticia3.avif")}
             style={styles.imagem} />
-          <Text style={styles.texto}>Cantos homofóbicos: São Paulo faz proposta de acordo ao STJD</Text>
+          <Text style={styles.texto}>Clássico, viagens e G-7: a reta final do São Paulo no Brasileirão</Text>
         </View>
         </View>
       </ScrollView>
